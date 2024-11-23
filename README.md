@@ -1,3 +1,9 @@
+# Turtlebot3_clone
+An updated version of the venerable Turtlebot3
+
+#Bill of Materials
+
+This is only rough, please send a PR with changes or raise an issue. 
 
 | Number   | TB3_clone              | Num    | Cost  | Link                                                                                                                                                                                                                     |
 |----------|------------------------|--------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,10 +19,7 @@
 | Multiple | USB cables             | -      | 10    |                                                                                                                                                                                                                          |
 
 
-# Turtlebot3_clone
-An updated version of the venerable Turtlebot3
-
-
+# Debugging Servos on Ubuntu
 If debugging ST3215 servos on Ubuntu then look at this tool:
 https://github.com/Kotakku/FT_SCServo_Debug_Qt
 
