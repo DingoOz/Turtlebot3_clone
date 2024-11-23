@@ -23,6 +23,9 @@ This is only rough, please send a PR with changes or raise an issue.
 If debugging ST3215 servos on Ubuntu then look at this tool:
 https://github.com/Kotakku/FT_SCServo_Debug_Qt
 
+# 3D printed parts
+https://www.printables.com/model/243076-turtlebot3-double-waffle-plate
+
 
 # Motor Mode
 To put the ST3215 into a continuous rotation mode, set the register "Work Mode" to 1 and then write a value between -4096 and +4096 to Goal Velocity.
