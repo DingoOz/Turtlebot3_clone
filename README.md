@@ -6,6 +6,9 @@ Note the model shown here has many items not included in the base configuration.
 # Turtlebot3_clone
 An updated version of the venerable Turtlebot3
 
+![Progress](https://img.shields.io/badge/Progress-70%25-brightgreen)
+
+
 #Bill of Materials
 
 This is only rough, please send a PR with changes or raise an issue. 
